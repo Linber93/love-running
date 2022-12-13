@@ -292,6 +292,14 @@ footer {
     hr {
         display: none;
     }
+
+    #times > div {
+        width: 100%;
+        clear: both;
+        height: 150px;
+        padding: 0;
+        
+    }
 }
 
 /* for medium screen size from 950px and down*/
